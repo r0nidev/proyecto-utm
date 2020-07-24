@@ -1,0 +1,18 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "nombre",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "changelogDate": "20200717210132",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "dias_laborales",
+    "pagination": "pagination"
+}

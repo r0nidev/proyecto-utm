@@ -1,0 +1,21 @@
+{
+    "utmApp": {
+        "diasLaborales" : {
+            "home": {
+                "title": "Dias Laborales",
+                "createLabel": "Create a new Dias Laborales",
+                "createOrEditLabel": "Create or edit a Dias Laborales"
+            },
+            "created": "A new Dias Laborales is created with identifier {{ param }}",
+            "updated": "A Dias Laborales is updated with identifier {{ param }}",
+            "deleted": "A Dias Laborales is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Dias Laborales {{ id }}?"
+            },
+            "detail": {
+                "title": "Dias Laborales"
+            },
+            "nombre": "Nombre"
+        }
+    }
+}
